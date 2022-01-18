@@ -10,4 +10,4 @@ jQuery: http://jquery.com/ <br>
 
 The DOM: <br>
 CSS Tricks: https://css-tricks.com/dom/ <br>
-W3 Schools http://www.w3schools.com/js/js_htmldom.asp
+W3 Schools: http://www.w3schools.com/js/js_htmldom.asp
