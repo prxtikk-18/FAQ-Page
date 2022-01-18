@@ -2,10 +2,12 @@
 
 Basic FAQ Page, using an animated accordion drop down. When a question is clicked, the corresponding answer is revealed.
 
-## Resorces
+***LINK*** : [FAQ Page](https://prxtikk-18.github.io/FAQ-Page/)
 
-jQuery: http://jquery.com/
+## Resources
 
-The DOM:
-https://css-tricks.com/dom/
-http://www.w3schools.com/js/js_htmldom.asp
+jQuery: http://jquery.com/ <br>
+
+The DOM: <br>
+CSS Tricks: https://css-tricks.com/dom/ <br>
+W3 Schools http://www.w3schools.com/js/js_htmldom.asp
